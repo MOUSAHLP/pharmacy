@@ -1,0 +1,13 @@
+const String myNumber = "+963946649532";
+const String myFaceBookId =
+    "fb://facewebmodal/f?href=https://www.facebook.com/issa.hlp";
+const String hamedNumber = "+963991266132";
+const String hamedNumberWithoutPlus = "963991266132";
+const String isLogedIn = "isLogedIn";
+const String pharmacyModelKey = "pharmacyModel";
+const String cashedshoppingcartKey = "cashedshoppingcart";
+const String cashedshoppingcartKeyValue = "cashedshoppingcartValue";
+const String newVersionKey = "newVersion";
+const String myVersionKey = "myVersion";
+const String githubToken = "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";
+const String myAPIUrl = "https://rlc-company.github.io/pharmacy/myAPI.json";
